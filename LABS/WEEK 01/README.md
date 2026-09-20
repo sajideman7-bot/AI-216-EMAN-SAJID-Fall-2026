@@ -32,3 +32,27 @@ Version control supports:
 * **Reproducibility:** It helps keep track of project versions so previous states can be recreated.
 * **Traceability:** Git history shows what changes were made and when.
 * **Collaboration:** GitHub allows multiple people to work on and share project code.
+## AI Usage Log
+
+### Tool Used
+
+ChatGPT
+
+### What I Asked
+
+* What does `.gitignore` do?
+* What is the difference between `git add`, `git commit`, and `git push`?
+* How can I check my Git commit history?
+* How can I understand and fix Git messages and errors?
+
+### What I Used From the Response
+
+* I used the explanations to understand Git version control commands.
+* I used the suggested commands to stage, commit, and push my coursework.
+* I used the guidance to create and improve my Week 1 README file.
+
+### What I Verified or Changed Myself
+
+* I ran the Git commands in my own terminal and checked their outputs.
+* I verified my files and commit history in Git and GitHub.
+* I reviewed the README content and made sure it matched my completed work.
